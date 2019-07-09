@@ -1,8 +1,11 @@
-**Deprecated**
+Django CMS Filer Plugins (AI Fork)
+*********************************
 
-This project is no longer supported.
+===============
+Acknowledgements
+===============
 
-Divio will undertake no further development or maintenance of this project. If you are interested in  taking responsibility for this project as its maintainer, please contact us via www.divio.com.
+This project is a fork of the now archived https://github.com/divio/cmsplugin-filer . Thanks, @Divio!
 
 
 ===============
