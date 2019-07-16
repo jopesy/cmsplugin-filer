@@ -11,6 +11,8 @@ setup(
     long_description=open('README.rst').read(),
     author='Stefan Foulis',
     author_email='stefan.foulis@gmail.com',
+    maintainer='Anders Innovations Ltd',
+    maintainer_email='info@anders.fi',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
